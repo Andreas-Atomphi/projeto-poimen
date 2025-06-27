@@ -133,7 +133,7 @@
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
-
+    :defaut-home {:page "Projeto Poimén"}
  ;; Set the default location for storing notes.
  ;; Default value: "pages"
  ;; :pages-directory "pages"
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Projeto Poimén"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -419,5 +419,8 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:excluded-pages? true
- :orphan-pages? false}}
+ :graph/settings {:excluded-pages? false
+ :orphan-pages? true
+ :builtin-pages? false}
+ :publishing/all-pages-public? true
+ :ui/show-brackets? false}
