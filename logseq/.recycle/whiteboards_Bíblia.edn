@@ -1,0 +1,1057 @@
+{:blocks (
+{:block/content "Informações gerais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{}
+:block/uuid #uuid "6837c978-5cc6-439e-b942-dabda48223e7"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c978-5cc6-439e-b942-dabda48223e7"}
+:block/parent 
+{:block/uuid #uuid "6837c978-5cc6-439e-b942-dabda48223e7"}
+:block/properties 
+{}
+:block/uuid #uuid "6837c9a1-ab2b-4f9c-905f-037b4a8f4468"} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c978-5cc6-439e-b942-dabda48223e7"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e2-257f-4426-aa5d-215cc94ef5fa"} 
+{:block/content "## 📖 {{title}} – Estudo Bíblico Completo"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-97ee-4d65-bb8a-3c17a21155a7"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "6837c9e3-5188-4e49-8ec3-f12dbbf54194"} 
+{:block/content "### 📌 Informações Gerais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-5188-4e49-8ec3-f12dbbf54194"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e3-e2b3-4ca0-9ac1-e4db577c9f84"} 
+{:block/content "**Nome original (hebraico/greek):** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-e2b3-4ca0-9ac1-e4db577c9f84"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-8e72-4ec9-8dd4-a6bd3ebad622"} 
+{:block/content "**Significado do nome:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-8e72-4ec9-8dd4-a6bd3ebad622"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-3c2e-4692-a054-62effe49e8e3"} 
+{:block/content "**Autor tradicional:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-3c2e-4692-a054-62effe49e8e3"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-1596-4343-bd5b-5be35e74f35b"} 
+{:block/content "**Debates sobre autoria:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-1596-4343-bd5b-5be35e74f35b"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-b145-4500-bae6-2d66f387098f"} 
+{:block/content "**Data estimada:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-b145-4500-bae6-2d66f387098f"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-abe3-4499-8a73-58dbab1a1baa"} 
+{:block/content "**Propósito do livro:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-abe3-4499-8a73-58dbab1a1baa"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-8863-4cc4-b12b-eee14be078ee"} 
+{:block/content "**Contexto histórico:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-8863-4cc4-b12b-eee14be078ee"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-b8ef-4451-bb09-aaf8ab53eb7b"} 
+{:block/content "**Público-alvo original:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-b8ef-4451-bb09-aaf8ab53eb7b"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-71a2-4a4f-a9da-59528d4e2a98"} 
+{:block/content "### 🧱 Estrutura Literária"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-71a2-4a4f-a9da-59528d4e2a98"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e3-0cdc-4059-a42a-9eb32e8d5620"} 
+{:block/content "**Divisão geral:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-0cdc-4059-a42a-9eb32e8d5620"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-a3c7-476f-adee-22900f3de421"} 
+{:block/content "Ex: [1–11] Pré-patriarcal, [12–50] Patriarcas"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-a3c7-476f-adee-22900f3de421"}
+:block/parent 
+{:block/uuid #uuid "6837c9e3-a3c7-476f-adee-22900f3de421"}
+:block/uuid #uuid "6837c9e3-631d-4ee0-97af-60b85eec4d72"} 
+{:block/content "**Resumo de capítulos ou seções principais:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-a3c7-476f-adee-22900f3de421"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-fd0f-46bd-8be1-e4a1ff06f676"} 
+{:block/content "**Gêneros literários presentes:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-fd0f-46bd-8be1-e4a1ff06f676"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-d29d-4681-af46-308ab762144c"} 
+{:block/content "**Recursos literários relevantes (quiasmo, paralelismo, etc.):**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-d29d-4681-af46-308ab762144c"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-90f9-4875-b8dc-7c278c0cc40b"} 
+{:block/content "### 🎯 Temas Teológicos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-90f9-4875-b8dc-7c278c0cc40b"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e3-8318-4067-b529-fbc132d7341e"} 
+{:block/content "**Doutrinas abordadas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-8318-4067-b529-fbc132d7341e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-8f3a-452f-bdc6-5825b98e256e"} 
+{:block/content "**Retrato de Deus:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-8f3a-452f-bdc6-5825b98e256e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-43af-417f-8931-0b961b211af6"} 
+{:block/content "**Pecado e redenção:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-43af-417f-8931-0b961b211af6"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-c900-4b9e-9fdc-6d4e242cc558"} 
+{:block/content "**Elementos da Aliança:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-c900-4b9e-9fdc-6d4e242cc558"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-5a46-4ab8-85bd-16043d6c9585"} 
+{:block/content "**Tipologia (Cristo, Igreja, etc.):**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-5a46-4ab8-85bd-16043d6c9585"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-3fb0-42a3-a57f-c9b6535c3c6e"} 
+{:block/content "**Implicações escatológicas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-3fb0-42a3-a57f-c9b6535c3c6e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-4eef-41a6-ba5e-6d083ccca4df"} 
+{:block/content "### 🧑 Personagens e Eventos-Chave"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-4eef-41a6-ba5e-6d083ccca4df"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e3-9f37-418b-993b-de58f6a04c04"} 
+{:block/content "**Personagens principais:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-9f37-418b-993b-de58f6a04c04"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-77fc-4d5d-a2e5-9d914baa8552"} 
+{:block/content "Nome → Função → Desenvolvimento"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-77fc-4d5d-a2e5-9d914baa8552"}
+:block/parent 
+{:block/uuid #uuid "6837c9e3-77fc-4d5d-a2e5-9d914baa8552"}
+:block/uuid #uuid "6837c9e3-9323-4b25-b9cc-62329c04d0c4"} 
+{:block/content "**Eventos notáveis:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-77fc-4d5d-a2e5-9d914baa8552"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-09fd-42b3-bbf1-9bd2905fe619"} 
+{:block/content "**Conexões com outros livros:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-09fd-42b3-bbf1-9bd2905fe619"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-ced8-4e98-b1d9-9094222f9cc8"} 
+{:block/content "### 🧠 Debates e Interpretações"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-ced8-4e98-b1d9-9094222f9cc8"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e3-88b9-4415-9bf6-a04031c9c20b"} 
+{:block/content "**Discussões exegéticas relevantes:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-88b9-4415-9bf6-a04031c9c20b"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-e587-472d-9157-c6fd7c727b5f"} 
+{:block/content "**Questões teológicas controversas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-e587-472d-9157-c6fd7c727b5f"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-6304-4a3d-97e4-af31dac70af0"} 
+{:block/content "**Diferenças entre correntes (ex: reformados vs. arminianos):**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-6304-4a3d-97e4-af31dac70af0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-8364-4a77-9ac5-b2194a0fdae0"} 
+{:block/content "**Posições patrísticas e acadêmicas modernas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-8364-4a77-9ac5-b2194a0fdae0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-0a1c-4f68-a4a1-c7611a4a77f0"} 
+{:block/content "### 🔗 Conexões com o Novo Testamento"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-0a1c-4f68-a4a1-c7611a4a77f0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e3-9b47-4100-86f4-f85f2d144e6c"} 
+{:block/content "**Citações diretas no NT:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-9b47-4100-86f4-f85f2d144e6c"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-e6a9-4438-a540-c77975838a44"} 
+{:block/content "**Cumprimentos de profecias/figuras:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-e6a9-4438-a540-c77975838a44"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-8b54-45cf-8403-55f970393ac3"} 
+{:block/content "**Transformações teológicas de temas no NT:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-8b54-45cf-8403-55f970393ac3"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-d103-48e5-bcd3-ddbc9e3604c6"} 
+{:block/content "### 🙏 Aplicações Devocionais e Pessoais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-d103-48e5-bcd3-ddbc9e3604c6"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e3-bbae-4d09-937e-4bab56e1fa12"} 
+{:block/content "**Versículos-chave para meditação:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-bbae-4d09-937e-4bab56e1fa12"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-624c-4794-b269-50f2d7f670be"} 
+{:block/content "**Lições práticas extraídas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-624c-4794-b269-50f2d7f670be"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-8600-42b6-b2fe-a66541396468"} 
+{:block/content "**Oração inspirada no livro:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-8600-42b6-b2fe-a66541396468"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-c869-42f1-80b8-05f48857b997"} 
+{:block/content "### 📚 Bibliografia e Comentários Lidos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-c869-42f1-80b8-05f48857b997"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e3-b3d0-4d17-a80b-6c5dfbde8120"} 
+{:block/content "**Autor 1 – Obra – Posição principal**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-b3d0-4d17-a80b-6c5dfbde8120"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-553b-43b4-b96c-7a42e6c50974"} 
+{:block/content "**Autor 2 – Obra – Contraponto**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-553b-43b4-b96c-7a42e6c50974"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-247d-46f4-8e68-d8606cddeb64"} 
+{:block/content "**Notas e insights relevantes:**\n\n---"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-247d-46f4-8e68-d8606cddeb64"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-c7ce-4012-9d92-2fda80a95cf6"} 
+{:block/content "## 📂 Tarefas de Estudo (usando TODOs)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-c7ce-4012-9d92-2fda80a95cf6"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "6837c9e3-0ec0-4ca8-91e2-5fb2e8cd5a9e"} 
+{:block/content "TODO Ler o livro completo 2x"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-0ec0-4ca8-91e2-5fb2e8cd5a9e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-2110-45bd-bc44-7062db6535c1"} 
+{:block/content "TODO Ler 2 comentários teológicos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-2110-45bd-bc44-7062db6535c1"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-a48d-4a90-a572-d9a180fb2527"} 
+{:block/content "TODO Escrever resumo por capítulo"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-a48d-4a90-a572-d9a180fb2527"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-abfd-4432-bf21-26359ab4c9e0"} 
+{:block/content "TODO Anotar debates teológicos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-abfd-4432-bf21-26359ab4c9e0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-47b6-4085-ba70-3a24efff4740"} 
+{:block/content "TODO Criar mapa mental ou linha do tempo"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e3-47b6-4085-ba70-3a24efff4740"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e3-d3ba-4fbf-a434-863042065dc6"} 
+{:block/content "## 📖 {{title}} – Estudo Bíblico Completo"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-fcfd-4fba-98b4-0c4f8a46e5dd"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "6837c9e4-4b02-4b6f-826d-6df4d14f4ed3"} 
+{:block/content "### 📌 Informações Gerais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-4b02-4b6f-826d-6df4d14f4ed3"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e4-468e-4219-bd19-c569381b6100"} 
+{:block/content "**Nome original (hebraico/greek):** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-468e-4219-bd19-c569381b6100"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-4cd1-42c4-93aa-b2114938ac0d"} 
+{:block/content "**Significado do nome:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-4cd1-42c4-93aa-b2114938ac0d"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-a2fc-4cf8-bc1c-8ed6767e4b57"} 
+{:block/content "**Autor tradicional:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-a2fc-4cf8-bc1c-8ed6767e4b57"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-ccc0-44e0-a395-c17f7e6c7b26"} 
+{:block/content "**Debates sobre autoria:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-ccc0-44e0-a395-c17f7e6c7b26"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-9ffe-4747-bb24-56a7b8af8a9f"} 
+{:block/content "**Data estimada:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-9ffe-4747-bb24-56a7b8af8a9f"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-e162-43ab-a98a-d36e870e759c"} 
+{:block/content "**Propósito do livro:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-e162-43ab-a98a-d36e870e759c"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-6513-49d1-ae4d-5a80b55a2f4e"} 
+{:block/content "**Contexto histórico:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-6513-49d1-ae4d-5a80b55a2f4e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-5fd0-461c-869b-36ceb903b01e"} 
+{:block/content "**Público-alvo original:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-5fd0-461c-869b-36ceb903b01e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-839a-43bf-bea6-4ec6ab9d0fb3"} 
+{:block/content "### 🧱 Estrutura Literária"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-839a-43bf-bea6-4ec6ab9d0fb3"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e4-9b1b-488e-b0ea-3599298d7527"} 
+{:block/content "**Divisão geral:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-9b1b-488e-b0ea-3599298d7527"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-d538-4c2d-9991-5f6f29433061"} 
+{:block/content "Ex: [1–11] Pré-patriarcal, [12–50] Patriarcas"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-d538-4c2d-9991-5f6f29433061"}
+:block/parent 
+{:block/uuid #uuid "6837c9e4-d538-4c2d-9991-5f6f29433061"}
+:block/uuid #uuid "6837c9e4-a2f1-4dab-a57c-eaa4d342d510"} 
+{:block/content "**Resumo de capítulos ou seções principais:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-d538-4c2d-9991-5f6f29433061"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-2119-484f-b356-4cc37be1cddb"} 
+{:block/content "**Gêneros literários presentes:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-2119-484f-b356-4cc37be1cddb"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-59f6-4834-8ea4-c7847a13fa45"} 
+{:block/content "**Recursos literários relevantes (quiasmo, paralelismo, etc.):**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-59f6-4834-8ea4-c7847a13fa45"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-6a4c-4134-81fd-089be896558e"} 
+{:block/content "### 🎯 Temas Teológicos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-6a4c-4134-81fd-089be896558e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e4-f6d2-4f2f-bb3f-fab1086d8717"} 
+{:block/content "**Doutrinas abordadas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-f6d2-4f2f-bb3f-fab1086d8717"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-87a0-49d7-92da-dc943b2eebd4"} 
+{:block/content "**Retrato de Deus:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-87a0-49d7-92da-dc943b2eebd4"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-d5e6-40d7-aa81-c771a4795eb2"} 
+{:block/content "**Pecado e redenção:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-d5e6-40d7-aa81-c771a4795eb2"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-ec4a-4161-ad72-7dcf1ca52a86"} 
+{:block/content "**Elementos da Aliança:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-ec4a-4161-ad72-7dcf1ca52a86"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-730c-4e70-a887-adc18b75d23d"} 
+{:block/content "**Tipologia (Cristo, Igreja, etc.):**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-730c-4e70-a887-adc18b75d23d"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-b981-4230-bc10-2db6656d585b"} 
+{:block/content "**Implicações escatológicas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-b981-4230-bc10-2db6656d585b"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-eb1e-49c6-943c-d5235d16a65f"} 
+{:block/content "### 🧑 Personagens e Eventos-Chave"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-eb1e-49c6-943c-d5235d16a65f"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e4-8732-4fde-addb-003b1133921e"} 
+{:block/content "**Personagens principais:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-8732-4fde-addb-003b1133921e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-3283-4b0b-9934-8a901065bbe0"} 
+{:block/content "Nome → Função → Desenvolvimento"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-3283-4b0b-9934-8a901065bbe0"}
+:block/parent 
+{:block/uuid #uuid "6837c9e4-3283-4b0b-9934-8a901065bbe0"}
+:block/uuid #uuid "6837c9e4-fd20-4e34-bae8-e33d58401492"} 
+{:block/content "**Eventos notáveis:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-3283-4b0b-9934-8a901065bbe0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-cee1-43c1-accd-ad9353bc5a49"} 
+{:block/content "**Conexões com outros livros:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-cee1-43c1-accd-ad9353bc5a49"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-6026-4b65-ae08-d2c9b1f546c5"} 
+{:block/content "### 🧠 Debates e Interpretações"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-6026-4b65-ae08-d2c9b1f546c5"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e4-c1d8-44eb-b150-a77d5ae599b3"} 
+{:block/content "**Discussões exegéticas relevantes:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-c1d8-44eb-b150-a77d5ae599b3"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-8166-4ba7-9954-853d43b24073"} 
+{:block/content "**Questões teológicas controversas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-8166-4ba7-9954-853d43b24073"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-7267-4961-805a-b459d6fb78d0"} 
+{:block/content "**Diferenças entre correntes (ex: reformados vs. arminianos):**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-7267-4961-805a-b459d6fb78d0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-31f6-42e6-a445-ab51fe2922aa"} 
+{:block/content "**Posições patrísticas e acadêmicas modernas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-31f6-42e6-a445-ab51fe2922aa"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-0a53-4d82-9012-75d81f895607"} 
+{:block/content "### 🔗 Conexões com o Novo Testamento"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-0a53-4d82-9012-75d81f895607"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e4-23cf-4b53-8ac3-92e554205e71"} 
+{:block/content "**Citações diretas no NT:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-23cf-4b53-8ac3-92e554205e71"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-6b62-4ba0-837a-819a3ff2d731"} 
+{:block/content "**Cumprimentos de profecias/figuras:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-6b62-4ba0-837a-819a3ff2d731"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-d15c-4704-9eff-ace2fffab1b6"} 
+{:block/content "**Transformações teológicas de temas no NT:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-d15c-4704-9eff-ace2fffab1b6"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-5076-47c9-a3f6-bd8a3c9dfbcc"} 
+{:block/content "### 🙏 Aplicações Devocionais e Pessoais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-5076-47c9-a3f6-bd8a3c9dfbcc"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e4-943e-48d6-8ac5-6deca452cf1d"} 
+{:block/content "**Versículos-chave para meditação:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-943e-48d6-8ac5-6deca452cf1d"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-0d43-496c-a50c-94de8f1af512"} 
+{:block/content "**Lições práticas extraídas:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-0d43-496c-a50c-94de8f1af512"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-8d07-4299-99f4-b9d8ae006d5c"} 
+{:block/content "**Oração inspirada no livro:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-8d07-4299-99f4-b9d8ae006d5c"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-ab57-4ea7-a0cd-5116e3ad08ab"} 
+{:block/content "### 📚 Bibliografia e Comentários Lidos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-ab57-4ea7-a0cd-5116e3ad08ab"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837c9e4-d3db-4864-83f3-479810a109e0"} 
+{:block/content "**Autor 1 – Obra – Posição principal**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-d3db-4864-83f3-479810a109e0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-4863-47b5-ba5e-92e52733d9cd"} 
+{:block/content "**Autor 2 – Obra – Contraponto**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-4863-47b5-ba5e-92e52733d9cd"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-9192-41f3-9ff5-10b29f5e7bc4"} 
+{:block/content "**Notas e insights relevantes:**\n\n---"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-9192-41f3-9ff5-10b29f5e7bc4"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-d3e6-4373-ab66-05d668c37fa6"} 
+{:block/content "## 📂 Tarefas de Estudo (usando TODOs)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-d3e6-4373-ab66-05d668c37fa6"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 2}
+:block/uuid #uuid "6837c9e4-a6f6-4641-9243-f028ba8e35ae"} 
+{:block/content "TODO Ler o livro completo 2x"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-a6f6-4641-9243-f028ba8e35ae"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-f070-4074-b8f9-b1a863e94122"} 
+{:block/content "TODO Ler 2 comentários teológicos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-f070-4074-b8f9-b1a863e94122"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-494f-4f1a-b87e-9792b638292a"} 
+{:block/content "TODO Escrever resumo por capítulo"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-494f-4f1a-b87e-9792b638292a"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-1f95-4923-affe-801ce3a0f6f1"} 
+{:block/content "TODO Anotar debates teológicos"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-1f95-4923-affe-801ce3a0f6f1"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-9c04-419f-bff3-4373f683f7ca"} 
+{:block/content "TODO Criar mapa mental ou linha do tempo"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e4-9c04-419f-bff3-4373f683f7ca"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837c9e4-97ee-4d65-bb8a-3c17a21155a7"} 
+{:block/content "### 📌 Informações Gerais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-5b07-45ad-bf0d-1dda47f36344"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837ca24-751a-4663-a799-cfeb9a3b2d3f"} 
+{:block/content "**Nome original (hebraico/greek):** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-751a-4663-a799-cfeb9a3b2d3f"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca24-54fb-4f0f-a63a-35217295b240"} 
+{:block/content "**Significado do nome:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-54fb-4f0f-a63a-35217295b240"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca24-5b00-4dd3-abc5-59f89c122c94"} 
+{:block/content "**Autor tradicional:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-5b00-4dd3-abc5-59f89c122c94"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca24-2acc-47ca-bb95-183bab7dce4b"} 
+{:block/content "**Debates sobre autoria:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-2acc-47ca-bb95-183bab7dce4b"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca24-5332-4ed0-b8da-cb8a02ec0134"} 
+{:block/content "**Data estimada:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-5332-4ed0-b8da-cb8a02ec0134"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca24-399a-4955-9e62-5ccdf18790fa"} 
+{:block/content "**Propósito do livro:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-399a-4955-9e62-5ccdf18790fa"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca24-0b14-446e-88ef-539eeb38a1d3"} 
+{:block/content "**Contexto histórico:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-0b14-446e-88ef-539eeb38a1d3"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca24-65bd-4ea0-8821-36ea6a5322d2"} 
+{:block/content "**Público-alvo original:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca24-65bd-4ea0-8821-36ea6a5322d2"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca24-fcfd-4fba-98b4-0c4f8a46e5dd"} 
+{:block/content "### 📌 Informações Gerais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-fd36-4ac8-9ab4-af3f2c1463b0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837ca29-5faa-4530-b5a3-4ebe901fe1f0"} 
+{:block/content "**Nome original (hebraico/greek):** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-5faa-4530-b5a3-4ebe901fe1f0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca29-7119-4972-bca2-df2e09308301"} 
+{:block/content "**Significado do nome:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-7119-4972-bca2-df2e09308301"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca29-0756-43fa-94c2-e57d95ab8696"} 
+{:block/content "**Autor tradicional:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-0756-43fa-94c2-e57d95ab8696"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca29-3334-436b-877c-0be9587e9ff4"} 
+{:block/content "**Debates sobre autoria:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-3334-436b-877c-0be9587e9ff4"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca29-ee31-4fa1-853a-bc2f224a8a3c"} 
+{:block/content "**Data estimada:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-ee31-4fa1-853a-bc2f224a8a3c"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca29-9d61-41f2-99cd-9d5bd856638c"} 
+{:block/content "**Propósito do livro:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-9d61-41f2-99cd-9d5bd856638c"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca29-ecad-4f80-8cac-328b1e9a419c"} 
+{:block/content "**Contexto histórico:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-ecad-4f80-8cac-328b1e9a419c"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca29-360a-404d-beed-4e3dd7c4fa61"} 
+{:block/content "**Público-alvo original:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca29-360a-404d-beed-4e3dd7c4fa61"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca29-5b07-45ad-bf0d-1dda47f36344"} 
+{:block/content "### 📌 Informações Gerais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-59a1-43f1-aeb7-590460709a52"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837ca2a-5cf1-4c41-91a2-e2bb4a2b3ad0"} 
+{:block/content "**Nome original (hebraico/greek):** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-5cf1-4c41-91a2-e2bb4a2b3ad0"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-839b-4381-ac83-0384bd34c257"} 
+{:block/content "**Significado do nome:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-839b-4381-ac83-0384bd34c257"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-0bac-48c8-a513-b8623e1e1d8e"} 
+{:block/content "**Autor tradicional:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-0bac-48c8-a513-b8623e1e1d8e"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-f54c-4a17-bc78-2b644bc13676"} 
+{:block/content "**Debates sobre autoria:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-f54c-4a17-bc78-2b644bc13676"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-109f-410e-9ed7-de4880ba157d"} 
+{:block/content "**Data estimada:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-109f-410e-9ed7-de4880ba157d"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-fb5b-4a21-84b5-c5a196e6b286"} 
+{:block/content "**Propósito do livro:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-fb5b-4a21-84b5-c5a196e6b286"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-e673-44d7-9ba1-157caef45c2f"} 
+{:block/content "**Contexto histórico:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-e673-44d7-9ba1-157caef45c2f"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-ed61-4309-a954-1f0420bacaf4"} 
+{:block/content "**Público-alvo original:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-ed61-4309-a954-1f0420bacaf4"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-fd36-4ac8-9ab4-af3f2c1463b0"} 
+{:block/content "### 📌 Informações Gerais"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837c9e2-257f-4426-aa5d-215cc94ef5fa"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/properties 
+{:heading 3}
+:block/uuid #uuid "6837ca2a-8d8a-4d39-a658-bfe2b52bd48d"} 
+{:block/content "**Nome original (hebraico/greek):** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-8d8a-4d39-a658-bfe2b52bd48d"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-1ecf-4fce-943e-4ef79b8fd084"} 
+{:block/content "**Significado do nome:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-1ecf-4fce-943e-4ef79b8fd084"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-c79f-4099-8695-1663f9c83961"} 
+{:block/content "**Autor tradicional:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-c79f-4099-8695-1663f9c83961"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-8bdd-4576-99ec-ce2b67a47dcf"} 
+{:block/content "**Debates sobre autoria:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-8bdd-4576-99ec-ce2b67a47dcf"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-470f-4ef9-b776-f803cf196be5"} 
+{:block/content "**Data estimada:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-470f-4ef9-b776-f803cf196be5"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-1ba3-444e-845d-27faa3250cf1"} 
+{:block/content "**Propósito do livro:**"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-1ba3-444e-845d-27faa3250cf1"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-c559-471d-96e6-a2256f24f337"} 
+{:block/content "**Contexto histórico:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-c559-471d-96e6-a2256f24f337"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-87af-4134-b69e-fde4e0f0cfbe"} 
+{:block/content "**Público-alvo original:** "
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6837ca2a-87af-4134-b69e-fde4e0f0cfbe"}
+:block/parent 
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"}
+:block/uuid #uuid "6837ca2a-59a1-43f1-aeb7-590460709a52"})
+:pages (
+{:block/uuid #uuid "6837c96c-767f-45d9-82eb-8a2189bacf55"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6837c96c-767f-45d9-82eb-8a2189bacf55"
+:name "gênesis"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("bd64dd50-3c36-11f0-b430-19c22255ccaa")}}
+:block/updated-at 1748486700355
+:block/created-at 1748486508530
+:block/type "whiteboard"
+:block/name "bíblia"
+:block/original-name "Bíblia"})}

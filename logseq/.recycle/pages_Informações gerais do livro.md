@@ -1,0 +1,29 @@
+- **Cabeçalho**
+	- Título: # {{title}}
+	- Alias: alias:: NomeOriginal, Transliteration
+- **Informações Gerais**
+	- Autor / Data / Local / Propósito / Contexto
+- **Visão Geral**
+	- Resumo breve (3–5 linhas)
+	- Estrutura literária (seções e capítulos)
+- **Leitura Analítica**
+	- Principais temas por seção
+	- Gêneros literários e recursos (quiasmo, paralelismo)
+- **Exegese Detalhada**
+	- Análise de versos-chave
+	- Notas comparativas de 2–3 comentaristas
+- **Temas Teológicos**
+	- Doutrinas centrais
+	- Tipologia e conexões NT
+- **Personagens & Eventos**
+	- Perfil de personagens importantes
+	- Cronologia dos eventos
+- **Debates & Interpretações**
+	- Questões exegéticas e teológicas
+	- Posições divergentes e fontes
+- **Aplicações & Devocional**
+	- Versículos para memorização
+	- Reflexão pessoal e oração
+- **Bibliografia**
+	- Comentários principais usados
+	- Artigos e patrística referenciados

@@ -1,0 +1,11 @@
+blockquote {
+  background-color: #211724;
+  border-left: 4px solid #7d2c94;
+  padding: 0.8em 1em;
+  font-family: "Charter", "Palatino Linotype", "Book Antiqua", "Lato", "Georgia", serif;
+  font-size: 1.08em;
+  line-height: 1.6;
+  color: white;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}

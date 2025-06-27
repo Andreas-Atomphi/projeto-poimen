@@ -1,0 +1,98 @@
+- Modelos para as informações gerais de cada tópico teológico.
+- template:: Informações gerais do livro
+  collapsed:: true
+	- # Cabeçalho
+		- Título: Onde vai o título padrão.
+		- Nome Original: Onde vai o nome no escrito original
+		- Nome Transliterado: *Onde vai o transliterado em itálico*.
+		- Gênero: Onde vai o gênero do livro escrito.
+	- # Informações Gerais
+		- ## Informar:
+			- Autor: quem tradicionalmente escreveu o livro
+			- Data: período aproximado da composição (ano estimado)
+			- Local: lugar geográfico onde se supõe que o autor escreveu ou redigiu o texto (país, cidade ou região)
+			- Propósito: motivo principal da escrita (público-alvo, intenção teológica ou pastoral)
+			- Contexto: cenário histórico e cultural em que o livro foi produzido
+	- # Visão Geral
+		- Resumo breve (3–5 linhas)
+		- Estrutura literária (seções e capítulos)
+	- # Leitura Analítica
+		- Principais temas por seção
+		- Gêneros literários e recursos (quiasmo, paralelismo)
+	- # Exegese Detalhada
+		- Análise de versos-chave
+		- Notas comparativas de 2–3 comentaristas
+	- # Temas Teológicos
+		- Doutrinas centrais
+		- Tipologia e conexões NT
+	- # Personagens & Eventos
+		- Perfil de personagens importantes
+		- Cronologia dos eventos
+	- # Debates & Interpretações
+		- Questões exegéticas e teológicas
+		- Posições divergentes e fontes
+	- # Aplicações & Devocional
+		- Versículos para memorização
+		- Reflexão pessoal e oração
+	- # Bibliografia
+		- Comentários principais usados
+		- Artigos e patrística referenciados
+- template:: Análise de trecho bíblico
+	- # **Referência**
+		- Livro: [Nome do Livro]
+		- Capítulo(s) e Versículo(s): [Ex: João 3:16]
+		- Contexto imediato: [Perícope anterior] → [Perícope seguinte]
+		- Contexto mais amplo: [Tema maior ou seção do livro]
+		- Gênero literário: [Tipo de texto] (ex: poesia, narrativa, profecia)
+	- # 📑 Texto do Trecho
+		- Texto na versão principal (ARA, NVI, etc)
+		- Versões alternativas em outras traduções:
+			- [ ] NVI
+			- [ ] NAA
+			- [ ] ARC
+			- [ ] Septuaginta
+			- [ ] Interlinear
+	- # 📜 Notas Linguísticas (Original)
+		- Palavras principais no hebraico/grego:
+		- Termos com múltiplas traduções:
+		- Construções gramaticais relevantes:
+		- Diferenças textuais entre manuscritos:
+	- # 🧠 Resumo Temático
+		- Tese ou afirmação central:
+		- Propósito do trecho:
+		- Elementos literários ou retóricos importantes:
+	- # 🌍 Contexto Histórico e Cultural
+		- Local e época (referenciar [Livro: Contexto histórico])
+		- Práticas culturais envolvidas:
+		- Influência de nações vizinhas, leis, ou tradições:
+	- # 📖 Contexto Canônico e Narrativo
+		- Relação com outros trechos no mesmo livro:
+		- Relação com o Antigo e o Novo Testamento:
+		- Tipologia / Profecias / Cumprimentos:
+		- Inclusões em citações no NT:
+	- # 🏛️ Teologia do Trecho
+		- Doutrinas abordadas ou ilustradas:
+		- Aspectos de Deus revelados:
+		- Implicações soteriológicas, escatológicas, eclesiológicas etc.
+		- Relação com []:
+	- # 🧙‍♂️ Tradições de Interpretação
+		- Pais da Igreja:
+		- Judaísmo do Segundo Templo:
+		- Reformadores:
+		- Catolicismo, Ortodoxia, Protestantismo:
+		- Teólogos modernos (referenciar autores):
+	- # 🔍 Questões Exegéticas
+		- Versículos difíceis ou ambíguos?
+		- Contrastes com outras passagens?
+		- Diferença de interpretação entre linhas teológicas:
+	- # 🧩 Aplicações e Reflexões
+		- Aplicações teológicas:
+		- Aplicações práticas / espirituais:
+		- Lições para a vida e ministério:
+	- # ✅ Síntese
+		- Frase-chave ou princípio eterno:
+		- Papel desse trecho na revelação bíblica:
+	- # 🧠 Tags
+		-
+	-
+- [[Sistema de Tags]]

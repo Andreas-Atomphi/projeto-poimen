@@ -1,0 +1,3 @@
+- **ʾEloah** é o singular de **ʾElohim**.
+- Significa literalmente **“Deus”** (em sentido individual).
+- Aparece cerca de **57 vezes** no Antigo Testamento, com forte presença em **Jó** (onde aparece 41 vezes).

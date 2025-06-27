@@ -1,0 +1,12 @@
+- **Forma:** הַשָּׁמַיִם (*Ha-Shamayim*)
+- **Significado geral:** “os céus”
+- **Campo semântico:**
+	- [[Céus físicos]] — atmosfera, espaço aéreo
+	- [[Céus cósmicos]] — astros, estrelas, universo
+	- [[Morada divina]] — habitação de Deus
+	- [[Dimensão sobrenatural]] — plano espiritual
+	- [[Fonte de autoridade]] — poder vindo do alto
+- **Observações:**
+	- É um plural intensivo (não apenas dois céus)
+	- Termo usado tanto de forma poética quanto teológica
+	- Muitas vezes parte da expressão “**os céus e a terra**” (*et hashamayim ve-et ha-aretz*)

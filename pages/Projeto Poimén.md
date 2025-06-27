@@ -1,0 +1,8 @@
+- Uma wiki pessoal para estudo e mapeamento mental sistemático das escrituras e tudo o que envolve teologia para acúmulo de conhecimento pastoral.
+- ### Índice
+	- [[Metodologia de Estudo]]
+	- [[Livros da Bíblia]]
+	- [[Temas e Doutrinas]]
+	- [[Teólogos e Comentários]]
+	- [[Teologia Sistemática]]
+	- [[Ferramentas de Estudo]]
